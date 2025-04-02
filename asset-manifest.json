@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/speed-reading-trainer/static/js/main.1fda3a33.js",
+    "main.js": "/speed-reading-trainer/static/js/main.c33d3ad4.js",
     "index.html": "/speed-reading-trainer/index.html",
-    "main.1fda3a33.js.map": "/speed-reading-trainer/static/js/main.1fda3a33.js.map"
+    "main.c33d3ad4.js.map": "/speed-reading-trainer/static/js/main.c33d3ad4.js.map"
   },
   "entrypoints": [
-    "static/js/main.1fda3a33.js"
+    "static/js/main.c33d3ad4.js"
   ]
 }
